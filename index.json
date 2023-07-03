@@ -65,23 +65,45 @@
 "Skills": [
     {
     "id": 1,
+    "image":"",
     "title":"HTML" ,
-    "percentage":"88%"
+    "Description": " bruv bruv bruv"
+
 },
 {
     "id": 2,
+    "image":"",
     "title":"CSS" ,
-    "percentage":"88%"
+    "Description": "bruv bruv bruv"
+
 },
 {
     "id": 3,
+    "image":"",
     "title":"JAVASCRIPT" ,
-    "percentage":"79%"
+    "Description": "bruv bruv bruv"
+
 },
 {
-    "id": 3,
+    "id": 4,
+    "image":"",
     "title":"BOOTSTRAP" ,
-    "percentage":"92%"
+    "Description": "bruv bruv bruv"
+
+},
+{
+    "id": 5,
+    "image":"",
+    "title":"Git" ,
+    "Description": "bruv bruv bruv"
+
+},
+{
+    "id": 6,
+    "image":"",
+    "title":"Vue" ,
+    "Description": "bruv bruv bruv"
+
 }
 
 ],
