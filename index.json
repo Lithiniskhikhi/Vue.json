@@ -31,6 +31,15 @@
     },
     {
         "ID": 5,
+        "image": "https://i.postimg.cc/hvY27DC5/e2c147ed-0f95-4798-96a5-93863264d3a4.jpg",
+        "Name": "Ma,arij Camroodien",
+        "relationship":"Classmate",
+        "Description":"I had the pleasure of working alongside [Your Name] in a professional capacity, and I cannot recommend them highly enough. [Your Name] is an exceptionally talented individual who consistently brings a high level of intelligence and skill to the work environment.From the moment I met [Your Name],it was evident that they possess a sharp intellect and an impressive ability to grasp complex concepts quickly.Their aptitude for problem-solving is unmatched,and they consistently deliver innovative solutions that surpass expectations."
+
+           
+    },
+    {
+        "ID": 5,
         "image": "https://i.postimg.cc/4yZ583Fx/C12-Justin-Scholtz-2-min.jpg",
         "Name": "Justin Scholtz",
         "relationship":"Classmate",
@@ -110,7 +119,7 @@
 },
 {
     "id": 6,
-    "image":"https://i.postimg.cc/t4wdBVpp/vue-js.png",
+    "image":"https://i.postimg.cc/9XJZ31Dp/pngegg-1.png",
     "title":"Vue" ,
     "level":"intermediate",
     "Description": "I have become highly skilled in Vue.js, harnessing its powerful framework to build robust, reactive, and scalable web applications with ease."
@@ -121,6 +130,8 @@
     
 
 }
+
+
 
 ],
 "Education": [
