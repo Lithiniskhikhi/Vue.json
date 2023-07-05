@@ -2,20 +2,20 @@
     "Testimonials":[
     {
         "ID": 1,
-        "image":  "https://i.postimg.cc/nrRK13fJ/Screenshot-2023-06-12-101528.png",
+        "image":  "https://i.postimg.cc/G3V3ssVR/Rabia.jpg",
         "Name": "Rabia Haucha",
         "Description":"Lithini is a very bright person She can light up the room with her can do attitude She is very determined to succeed as a web developer which makes her stand out from the rest and I'm positive you won't regret your decision to have her on your team"
 
     },
     {
         "ID": 2,
-        "image": "https://i.postimg.cc/tgVLMCys/Screenshot-2023-06-12-104523.png",
+        "image": "https://i.postimg.cc/bN1GyTJW/summer.jpg",
         "Name": "Summer De Wet",
         "Description":"Lithini Skhikhi is a very dedicated person, she works hard for what she wants She is very passionate about her work and always does her best and puts in the neccesary effort."
     },
     {
         "ID": 3,
-        "image": "https://i.postimg.cc/8CSz43gg/Screenshot-2023-06-12-104854.png",
+        "image": "https://i.postimg.cc/4xdTLfrP/zia.png",
         "Name": "Zia Khan",
         "Description":"lithini is a focused hard worker and is always willing to help other piers tackle issues and challenges with a positive attitude takes pride in her work. "
     },
@@ -27,7 +27,7 @@
     },
     {
         "ID": 5,
-        "image": "https://i.postimg.cc/jd8f8ysS/Screenshot-2023-06-12-105112.png",
+        "image": "https://i.postimg.cc/4yZ583Fx/C12-Justin-Scholtz-2-min.jpg",
         "Name": "Justin Scholtz",
         "Description":"Lithini is a very bright person, she can light up the room with her can do attitude. She is"
     }
@@ -95,14 +95,14 @@
     "id": 5,
     "image":"",
     "title":"Git" ,
-    "Description": "bruv bruv bruv"
+    "Description": ""
 
 },
 {
     "id": 6,
     "image":"",
     "title":"Vue" ,
-    "Description": "bruv bruv bruv"
+    "Description": ""
 
 }
 
