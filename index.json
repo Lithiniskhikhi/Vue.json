@@ -2,7 +2,7 @@
     "Testimonials":[
     {
         "ID": 1,
-        "image":  "https://i.postimg.cc/G3V3ssVR/Rabia.jpg",
+        "image": "https://i.postimg.cc/G3V3ssVR/Rabia.jpg",
         "Name": "Rabia Haucha",
         "Description":"Lithini is a very bright person She can light up the room with her can do attitude She is very determined to succeed as a web developer which makes her stand out from the rest and I'm positive you won't regret your decision to have her on your team"
 
@@ -65,44 +65,49 @@
 "Skills": [
     {
     "id": 1,
-    "image":"",
+    "image":"https://i.postimg.cc/dVMRCP8L/html.png",
     "title":"HTML" ,
-    "Description": " bruv bruv bruv"
+    "Description": " I have developed a strong skill in HTML, enabling me to create well-structured web pages with semantic tags and responsive designs."
 
 },
 {
     "id": 2,
-    "image":"",
+    "image": "https://i.postimg.cc/0y2DgY10/css.png",
     "title":"CSS" ,
-    "Description": "bruv bruv bruv"
+    "Description": "I have a solid skill in CSS, allowing me to style and enhance web pages with creativity, responsiveness, and cross-browser compatibility."
 
 },
 {
     "id": 3,
-    "image":"",
+    "image": "https://i.postimg.cc/QC3Kf5q5/javascript.png",
     "title":"JAVASCRIPT" ,
-    "Description": "bruv bruv bruv"
+    "Description": "I possess a proficient skill in JavaScript, empowering me to create dynamic and interactive web experiences through programming logic and DOM manipulation."
 
 },
 {
     "id": 4,
-    "image":"",
+    "image": "https://i.postimg.cc/x8WR8drg/bootstrap2.png",
     "title":"BOOTSTRAP" ,
-    "Description": "bruv bruv bruv"
+    "Description": "I have a strong command over Bootstrap, leveraging its extensive CSS framework to rapidly develop responsive and visually appealing web applications."
 
 },
 {
     "id": 5,
-    "image":"",
+    "image":"https://i.postimg.cc/dtqRLBN7/Screenshot-2023-07-05-092453.png",
     "title":"Git" ,
-    "Description": ""
+    "Description": "I am proficient in Git, utilizing its version control system to manage and collaborate on projects, track changes, and streamline development workflows effectively."
 
 },
 {
     "id": 6,
-    "image":"",
+    "image":"https://postimg.cc/7bJf03MG",
     "title":"Vue" ,
-    "Description": ""
+    "Description": "I have become highly skilled in Vue.js, harnessing its powerful framework to build robust, reactive, and scalable web applications with ease."
+
+
+
+
+    
 
 }
 
@@ -110,24 +115,18 @@
 "Education": [
     {
     "id": 1,
-    "title":"HTML" ,
-    "percentage":"88%"
+    "image":"https://i.postimg.cc/mZJQL4fr/Screenshot-2023-07-05-093821.png",
+    "title":"Rhodes High School" ,
+    "Timeline":"2018 - 2022",
+    "Description":"I matriculated from Rhodes in 2022"
 },
 {
     "id": 2,
-    "title":"CSS" ,
-    "percentage":"88%"
-},
-{
-    "id": 3,
-    "title":"JAVASCRIPT" ,
-    "percentage":"79%"
-},
-{
-    "id": 3,
-    "title":"BOOTSTRAP" ,
-    "percentage":"92%"
+    "image":"https://i.postimg.cc/Hng7fQh1/Screenshot-2023-07-05-093930.png",
+    "title":"Life Choices Academy" ,
+    "percentage":"I started in 2023"
 }
+
 
 ]
 }
