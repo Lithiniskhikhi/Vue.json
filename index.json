@@ -21,7 +21,7 @@
     },
     {
         "ID": 4,
-        "image": "https://i.postimg.cc/zfC9Nz23/Screenshot-2023-06-12-105057.png",
+        "image": "https://i.postimg.cc/s2p1LVs8/t0.jpg",
         "Name": "Imraan Bernksen",
         "Description":"I highly recommend Lithini as an aspiring web developer with a passion for creating stunning and functional websites. She has a strong foundation in programming languages such as HTML, CSS, and Bootstrap and is constantly learning and staying up-to-date with the latest technologies"
     },
@@ -29,7 +29,7 @@
         "ID": 5,
         "image": "https://i.postimg.cc/4yZ583Fx/C12-Justin-Scholtz-2-min.jpg",
         "Name": "Justin Scholtz",
-        "Description":"Lithini is a very bright person, she can light up the room with her can do attitude. She is"
+        "Description":"I highly recommend Lithini as an exceptional worker with a diverse skill set. Their proficiency in HTML, Vue, Bootstrap, JavaScript, Git, and CSS is impressive. Their ability to seamlessly integrate these technologies into projects showcases their expertise and dedication. They consistently deliver high-quality work and are a valuable asset to any team."
     }
     
 ],
@@ -67,6 +67,7 @@
     "id": 1,
     "image":"https://i.postimg.cc/dVMRCP8L/html.png",
     "title":"HTML" ,
+    "level":"Advanced",
     "Description": " I have developed a strong skill in HTML, enabling me to create well-structured web pages with semantic tags and responsive designs."
 
 },
@@ -74,6 +75,7 @@
     "id": 2,
     "image": "https://i.postimg.cc/0y2DgY10/css.png",
     "title":"CSS" ,
+    "level":"Advanced",
     "Description": "I have a solid skill in CSS, allowing me to style and enhance web pages with creativity, responsiveness, and cross-browser compatibility."
 
 },
@@ -81,6 +83,7 @@
     "id": 3,
     "image": "https://i.postimg.cc/QC3Kf5q5/javascript.png",
     "title":"JAVASCRIPT" ,
+    "level":"intermediate",
     "Description": "I possess a proficient skill in JavaScript, empowering me to create dynamic and interactive web experiences through programming logic and DOM manipulation."
 
 },
@@ -88,20 +91,23 @@
     "id": 4,
     "image": "https://i.postimg.cc/x8WR8drg/bootstrap2.png",
     "title":"BOOTSTRAP" ,
+    "level":"Advanced",
     "Description": "I have a strong command over Bootstrap, leveraging its extensive CSS framework to rapidly develop responsive and visually appealing web applications."
 
 },
 {
     "id": 5,
-    "image":"https://i.postimg.cc/dtqRLBN7/Screenshot-2023-07-05-092453.png",
+    "image":"https://i.postimg.cc/bN82N9NZ/Git-Icon-1788-C.png",
     "title":"Git" ,
+    "level":"Advanced",
     "Description": "I am proficient in Git, utilizing its version control system to manage and collaborate on projects, track changes, and streamline development workflows effectively."
 
 },
 {
     "id": 6,
-    "image":"https://postimg.cc/7bJf03MG",
+    "image":"https://i.postimg.cc/t4wdBVpp/vue-js.png",
     "title":"Vue" ,
+    "level":"intermediate",
     "Description": "I have become highly skilled in Vue.js, harnessing its powerful framework to build robust, reactive, and scalable web applications with ease."
 
 
