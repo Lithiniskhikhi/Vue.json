@@ -4,6 +4,7 @@
         "ID": 1,
         "image": "https://i.postimg.cc/G3V3ssVR/Rabia.jpg",
         "Name": "Rabia Haucha",
+        "relationship":"Classmate",
         "Description":"Lithini is a very bright person She can light up the room with her can do attitude She is very determined to succeed as a web developer which makes her stand out from the rest and I'm positive you won't regret your decision to have her on your team"
 
     },
@@ -11,24 +12,28 @@
         "ID": 2,
         "image": "https://i.postimg.cc/bN1GyTJW/summer.jpg",
         "Name": "Summer De Wet",
+        "relationship":"Classmate",
         "Description":"Lithini Skhikhi is a very dedicated person, she works hard for what she wants She is very passionate about her work and always does her best and puts in the neccesary effort."
     },
     {
         "ID": 3,
         "image": "https://i.postimg.cc/4xdTLfrP/zia.png",
         "Name": "Zia Khan",
+        "relationship":"Classmate",
         "Description":"lithini is a focused hard worker and is always willing to help other piers tackle issues and challenges with a positive attitude takes pride in her work. "
     },
     {
         "ID": 4,
         "image": "https://i.postimg.cc/s2p1LVs8/t0.jpg",
         "Name": "Imraan Bernksen",
+        "relationship":"Lecturer",
         "Description":"I highly recommend Lithini as an aspiring web developer with a passion for creating stunning and functional websites. She has a strong foundation in programming languages such as HTML, CSS, and Bootstrap and is constantly learning and staying up-to-date with the latest technologies"
     },
     {
         "ID": 5,
         "image": "https://i.postimg.cc/4yZ583Fx/C12-Justin-Scholtz-2-min.jpg",
         "Name": "Justin Scholtz",
+        "relationship":"Classmate",
         "Description":"I highly recommend Lithini as an exceptional worker with a diverse skill set. Their proficiency in HTML, Vue, Bootstrap, JavaScript, Git, and CSS is impressive. Their ability to seamlessly integrate these technologies into projects showcases their expertise and dedication. They consistently deliver high-quality work and are a valuable asset to any team."
     }
     
@@ -36,8 +41,8 @@
   "Projects":[
     {
         "ID": 1,
-        "image":  "https://i.postimg.cc/nrRK13fJ/Screenshot-2023-06-12-101528.png",
-        "Name": "Igor",
+        "image":  "",
+        "Name": "NewProject",
         "github": "",
         "firebase":"",
         "netlify":""
@@ -46,18 +51,18 @@
     {
         "ID": 2,
         "image": "https://i.postimg.cc/tgVLMCys/Screenshot-2023-06-12-104523.png",
-        "Name": "In Rainbows",
-        "github": "",
+        "Name": "SkinC",
+        "github": "https://github.com/rabiahaucha/Group-E-Commerce.git",
         "firebase":"",
-        "netlify":""
+        "netlify":"https://zesty-froyo-c5eeb8.netlify.app"
     },
     {
         "ID": 3,
         "image": "https://i.postimg.cc/8CSz43gg/Screenshot-2023-06-12-104854.png",
-        "Name": "Portamento",
-        "github": "",
+        "Name": "Calculator",
+        "github": "https://github.com/Lithiniskhikhi/calculator.git",
         "firebase":"",
-        "netlify":""
+        "netlify":"https://lucent-croquembouche-35c80b.netlify.app"
         
     }
    
