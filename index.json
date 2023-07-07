@@ -10,7 +10,7 @@
     },
     {
         "ID": 2,
-        "image": "https://i.postimg.cc/bN1GyTJW/summer.jpg",
+        "image":" https://i.postimg.cc/7Pg6b5dg/C12-C2-Summer-de-Wet-1.jpg",
         "Name": "Summer De Wet",
         "relationship":"Classmate",
         "Description":"Lithini Skhikhi is a very dedicated person, she works hard for what she wants She is very passionate about her work and always does her best and puts in the neccesary effort."
@@ -50,11 +50,10 @@
   "Projects":[
     {
         "ID": 1,
-        "image":  "",
-        "Name": "NewProject",
-        "github": "",
-        "firebase":"",
-        "netlify":""
+        "image":  "https://i.postimg.cc/XNwNZWkn/Screenshot-2023-07-07-121854.png",
+        "Name": "Calendar",
+        "github": "https://github.com/Lithiniskhikhi/Calendar.git",
+        "netlify":"https://admirable-dasik-3b46d6.netlify.app"
        
     },
     {
@@ -62,7 +61,6 @@
         "image": "https://i.postimg.cc/zf2BgsC2/Screenshot-2023-07-05-113103.png",
         "Name": "SkinC",
         "github": "https://github.com/rabiahaucha/Group-E-Commerce.git",
-        "firebase":"",
         "netlify":"https://zesty-froyo-c5eeb8.netlify.app"
     },
     {
@@ -70,11 +68,35 @@
         "image": "https://i.postimg.cc/90MhV0RL/Screenshot-2023-07-05-112911.png",
         "Name": "Calculator",
         "github": "https://github.com/Lithiniskhikhi/calculator.git",
-        "firebase":"",
+        "netlify":"https://lucent-croquembouche-35c80b.netlify.app"
+        
+    },
+   
+    {
+        "ID": 4,
+        "image": "https://i.postimg.cc/yxnwFLNy/Screenshot-2023-07-07-121958.png",
+        "Name": " BMI Calculator",
+        "github": "https://github.com/Lithiniskhikhi/BMI.git",
+        "netlify":"https://snazzy-bunny-ffdbc3.netlify.app"
+        
+    },
+
+    {
+        "ID":5,
+        "image": "https://i.postimg.cc/nrZJKsGp/Screenshot-2023-07-07-121924.png",
+        "Name": "E-commerce",
+        "github": "https://github.com/Lithiniskhikhi/jsE-commerce.git",
+        "netlify":"https://scintillating-dasik-61b30e.netlify.app"
+        
+    },
+    {
+        "ID": 6,
+        "image": "https://i.postimg.cc/90MhV0RL/Screenshot-2023-07-05-112911.png",
+        "Name": "Property24",
+        "github": "https://github.com/Lithiniskhikhi/Property24.git",
         "netlify":"https://lucent-croquembouche-35c80b.netlify.app"
         
     }
-   
 ],
 "Skills": [
     {
