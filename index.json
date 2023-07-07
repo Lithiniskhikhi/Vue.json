@@ -53,7 +53,8 @@
         "image":  "https://i.postimg.cc/XNwNZWkn/Screenshot-2023-07-07-121854.png",
         "Name": "Calendar",
         "github": "https://github.com/Lithiniskhikhi/Calendar.git",
-        "netlify":"https://admirable-dasik-3b46d6.netlify.app"
+        "netlify":"https://admirable-dasik-3b46d6.netlify.app",
+        "Description":"i built this calculator using html it was simple"
        
     },
     {
@@ -61,14 +62,18 @@
         "image": "https://i.postimg.cc/zf2BgsC2/Screenshot-2023-07-05-113103.png",
         "Name": "SkinC",
         "github": "https://github.com/rabiahaucha/Group-E-Commerce.git",
-        "netlify":"https://zesty-froyo-c5eeb8.netlify.app"
+        "netlify":"https://zesty-froyo-c5eeb8.netlify.app",
+        "Description":"This was a collaborative project were we built an e-commerce website"
+
     },
     {
         "ID": 3,
         "image": "https://i.postimg.cc/90MhV0RL/Screenshot-2023-07-05-112911.png",
         "Name": "Calculator",
         "github": "https://github.com/Lithiniskhikhi/calculator.git",
-        "netlify":"https://lucent-croquembouche-35c80b.netlify.app"
+        "netlify":"https://lucent-croquembouche-35c80b.netlify.app",
+        "Description":"the calculator was built using Javascript and html it is fully functional"
+
         
     },
    
@@ -77,7 +82,9 @@
         "image": "https://i.postimg.cc/yxnwFLNy/Screenshot-2023-07-07-121958.png",
         "Name": " BMI Calculator",
         "github": "https://github.com/Lithiniskhikhi/BMI.git",
-        "netlify":"https://snazzy-bunny-ffdbc3.netlify.app"
+        "netlify":"https://snazzy-bunny-ffdbc3.netlify.app",
+        "Description":"this can calculate a persons Bmi and determine wether they are over weight or not"
+
         
     },
 
@@ -86,7 +93,9 @@
         "image": "https://i.postimg.cc/nrZJKsGp/Screenshot-2023-07-07-121924.png",
         "Name": "E-commerce",
         "github": "https://github.com/Lithiniskhikhi/jsE-commerce.git",
-        "netlify":"https://scintillating-dasik-61b30e.netlify.app"
+        "netlify":"https://scintillating-dasik-61b30e.netlify.app",
+        "Description":"this was built using  Javascript and i used local storage to store the objects"
+
         
     },
     {
@@ -94,7 +103,9 @@
         "image": "https://i.postimg.cc/Pqg4RYcs/Screenshot-2023-07-07-122536.png",
         "Name": "Property24",
         "github": "https://github.com/Lithiniskhikhi/Property24.git",
-        "netlify":"https://lucent-croquembouche-35c80b.netlify.app"
+        "netlify":"https://lucent-croquembouche-35c80b.netlify.app",
+        "Description":"this project was a recreation of the properties24 site"
+
         
     }
 ],
